@@ -15,4 +15,4 @@ const add =(a,b) => a+b;
 
 const status = true;
 
-module.exports = {person, sayHello,cube,add, status}
+module.exports = {person, sayHello,cube, add, status}
